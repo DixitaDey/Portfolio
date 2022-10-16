@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PortFolio_Intent</string>
+    <string name="loading">Loading</string>
+    <string name="akatski">Akatski</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="panjab_university">Panjab University</string>
+    <string name="computer_science_and_engineering">Computer Science And Engineering</string>
+    <string name="_2017_2021">2017-2021</string>
+    <string name="courses">Courses</string>
+    <string name="organization">Organization</string>
+    <string name="course_name">Course Name</string>
+    <string name="year">Year</string>
+    <string name="education">Education</string>
+    <string name="open_github">Open GitHub</string>
+    <string name="enter_name_and_position">Enter Name and Position</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_position">Enter Position</string>
+    <string name="enter_education">Enter Education</string>
+    <string name="enter_university_name">Enter University Name</string>
+    <string name="enter_degree">Enter Degree</string>
+    <string name="enter_year">Enter Year</string>
+    <string name="enter_course">Enter Course</string>
+    <string name="enter_organization_name">Enter Organization name</string>
+    <string name="enter_course_namw">Enter Course Name</string>
+    <string name="enter_github_username">Enter GitHub Username</string>
+    <string name="submit">Submit</string>
+</resources>
